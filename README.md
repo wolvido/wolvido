@@ -1,6 +1,6 @@
 ## Hi there, I'm Winzyl Olvido
 
-### 🌟 Aspiring Full-Stack Developer | .NET Enthusiast | Angular Learner
+### 🌟 Aspiring Full-Stack Developer | .NET Focus | Angular Learner
 I'm passionate about building software solutions and solve real-world problems. With a focus on .NET technologies and an interest in Angular.  
 I'm eager to create impactful projects and expand my skillset.
 
