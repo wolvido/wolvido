@@ -1,8 +1,9 @@
 ## Hi there, I'm Winzyl Olvido
 
 ### 🌟 Aspiring Full-Stack Developer | .NET Focus | Angular Learner
-- I'm passionate about building software solutions and solve real-world problems. With a focus on .NET technologies and an interest in Angular.  
-- I'm eager to create impactful projects and expand my skillset.
+I've been enmaored with computers and softwares ever since I was a child.  
+I started my serious coding journey learning C# and .NET.  
+In my opinion a mature statically typed language such as C# is and a structured framework such as .NET is much better when maintaining software, especially in the long term.  
 
 ### 🛠️ Tech Stack:
 - Languages & Frameworks: .NET Core, Entity Framework Core, JQuery, xUnit Testing.  
