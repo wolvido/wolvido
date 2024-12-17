@@ -10,6 +10,10 @@
 - Languages & Frameworks: .NET Core, Entity Framework Core, JQuery, xUnit Testing.  
 - Tools: Visual Studio, Visual Studio Code, Git, Github.
 
+### 🚧 Current Endeavors:
+**Check out what im currently building**
+- [**FruitFund Tracker**](https://github.com/wolvido/FruitFund-Tracker): What started as a small group of women, including my mother, where each member contributed a fixed monthly amount. At the end of the year, the pooled money was used to bulk buy 12 kinds of fruits for each member to celebrate the Filipino New Year tradition of having 12 fruits. For more information, check out [github.com/wolvido/FruitFund-Tracker](https://github.com/wolvido/FruitFund-Tracker)
+
 ### 🌱 What I'm Currently Learning:
 - Deep diving into Angular for frontend development.  
 - Exploring best practices in .NET development.
