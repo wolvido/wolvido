@@ -4,10 +4,9 @@
 - I've been enmaored with computers and softwares ever since I was a child. I started my serious coding journey learning C# and .NET.  
 - In my opinion a mature statically typed language such as C# and a structured framework such as .NET is much better when maintaining software, especially in the long term.
 - Aside from technical skills, I strongly believe that social/communication skills are just as important, if not more.
-- Currently looking for a .NET backend role, but also aspiring to be a Full-Stack Developer.
 
 ### 🛠️ Tech Stack:
-- Languages & Frameworks: .NET Core, Entity Framework Core, JQuery, xUnit Testing.  
+- Languages & Frameworks: .NET Core, Entity Framework Core, React, React Native.
 - Tools: Visual Studio, Visual Studio Code, Git, Github.
 
 ### 🚧 Current Endeavors:
@@ -15,7 +14,7 @@
 - [**FruitFund Tracker**](https://github.com/wolvido/FruitFund-Tracker): What started as a small group of women, including my mother, where each member contributed a fixed monthly amount. At the end of the year, the pooled money was used to bulk buy 12 kinds of fruits for each member to celebrate the Filipino New Year tradition of having 12 fruits. For more information, check out [github.com/wolvido/FruitFund-Tracker](https://github.com/wolvido/FruitFund-Tracker)
 
 ### 🌱 What I'm Currently Learning:
-- Deep diving into Angular for frontend development.  
+- Deep diving into React and React Native for frontend and mobile app development.  
 - Exploring best practices in .NET development.
 
 ### 📫 Let's Connect:
