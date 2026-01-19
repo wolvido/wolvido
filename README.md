@@ -1,7 +1,7 @@
 ## Hi there, I'm Winzyl Olvido
 
 ### 🌟 Software Developer | React & React Native | .NET
-- I’ve been into computers and software since I was a kid, but I only began coding seriously with C# and .NET in recent years. Over the past year, I’ve been working professionally with .NET on the backend and React / React Native on the frontend.
+- I’ve been into computers and software since I was a kid. I began coding seriously with C# and .NET in my college years. Over the recent years, I’ve been working professionally with React / React Native on the frontend and .NET on the backend.
 - I use AI not to write my code, but to output huge lines of code as fast as I can think them, so i don't waste time typing them myself.
 - I’m a big believer in keeping things simple. Simple readable componetized code is usually better than clever code, and in my experience it holds up much better as projects grow and change.
 - Aside from technical skills, I strongly believe communication matters a lot. I prefer working in agile teams, getting feedback early, and iterating often, and I try to be someone that’s easy to approach and straightforward to collaborate with.
