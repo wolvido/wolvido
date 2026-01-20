@@ -12,7 +12,7 @@
 
 ### 🚧 Current Endeavors: 
 **Check out what im currently building**
-- Developing a React Native foundation kit from the ground up, built for real-world, production-ready apps. Every decision—from architecture to folder structure is aimed at making code scalable, maintainable, and easy for teams to extend.
+- Developing a React Native foundation kit from the ground up, built for real-world, production-ready apps. Every decision from architecture to folder structure is aimed at making code scalable, maintainable, and easy for teams to extend.
 - [**FruitFund Tracker**](https://github.com/wolvido/FruitFund-Tracker): What started as a small group of women, including my mother, where each member contributed a fixed monthly amount. At the end of the year, the pooled money was used to bulk buy 12 kinds of fruits for each member to celebrate the Filipino New Year tradition of having 12 fruits. For more information, check out [github.com/wolvido/FruitFund-Tracker](https://github.com/wolvido/FruitFund-Tracker)
 
 ### 🌱 What I'm Currently Learning:
