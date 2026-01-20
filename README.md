@@ -4,6 +4,7 @@
 - I’ve been into computers and software since I was a kid. I began coding seriously with C# and .NET in my college years. Over the recent years, I’ve been working professionally with React / React Native on the frontend and .NET on the backend.
 - I use AI not to write my code, but to output huge lines of code as fast as I can think them, so i don't waste time typing them myself.
 - I’m a big believer in keeping things simple. Simple readable componetized code is usually better than clever code, and in my experience it holds up much better as projects grow and change.
+- I’m not into using AI code just to make things work without really knowing what’s going on. Code thrown together without understanding the fundamentals of project architecture, componentization, data modeling, or basic static typing might be fast at first, but the code smell adds up, and you end up with delays or blockers later. I get that sometimes you need to ship fast, which is why I focus on simple, solid code first, with an extensible architecture, and extend it later when it actually makes sense.
 - Aside from technical skills, I strongly believe communication matters a lot. I prefer working in agile teams, getting feedback early, and iterating often, and I try to be someone that’s easy to approach and straightforward to collaborate with.
 
 ### 🛠️ Tech Stack:
